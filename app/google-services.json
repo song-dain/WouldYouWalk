@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "763488851160",
+    "project_id": "wouldyouwalk-7e94b",
+    "storage_bucket": "wouldyouwalk-7e94b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763488851160:android:93904f170b339e5e9e33ad",
+        "android_client_info": {
+          "package_name": "com.greedy.wouldyouwalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763488851160-89rj8kq9sgkesc28a1s35e0vfgtb2du1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greedy.wouldyouwalk",
+            "certificate_hash": "573de03c58079e4996d03d462648c4ecfacbfcd7"
+          }
+        },
+        {
+          "client_id": "763488851160-a8m44h4scqskr3286t6qp8bvhr1db1ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXH2aFygOiKYrRKnxEePgak-87fcbTDUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763488851160-a8m44h4scqskr3286t6qp8bvhr1db1ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
